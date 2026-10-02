@@ -6,17 +6,17 @@ namespace EstonianLocalization
 {
     [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
     [BepInDependency(Jotunn.Main.ModGuid)]
-    internal class EstonianLocalization : BaseUnityPlugin
+    internal class BetterDutchLocalization : BaseUnityPlugin
     {
-        public const string PluginGUID = "com.juljus777.EstonianLocalization";
-        public const string PluginName = "EstonianLocalization";
-        public const string PluginVersion = "0.0.5";
+        public const string PluginGUID = "com.pnutbuttrcrepes.BetterDutchLocalization";
+        public const string PluginName = "BetterDutchLocalization";
+        public const string PluginVersion = "0.0.1";
 
         public static CustomLocalization Localization = LocalizationManager.Instance.GetLocalization();
 
         private void Awake()
         {
-            Jotunn.Logger.LogInfo("EstonianLocalization has landed");
+            Jotunn.Logger.LogInfo("BetterDutchLocalization has landed");
         }
     }
 }

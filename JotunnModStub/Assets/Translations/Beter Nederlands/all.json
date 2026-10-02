@@ -1737,7 +1737,7 @@
   "menu_manualsave": "Salvesta",
   "menu_manualsavetime": "Viimati salvestatud: $1m tagasi",
   "menu_missingmetarestore": "Selle maailma puudub metafail. Kas sa soovid seda kõige asjakohasema tagavara koopia pealt taastada?",
-  "menu_mod_notice": "Sa mängid Valheimi modifitseeritud versioonil.<br>See võib muuta originaalse mängu kogemust. Kui sul tekib ükskõik milliseid probleeme siis enne teavistamist deinstallid kõigepealt kõik modid. Kui hiljuti on olnud uuendus, siis mõned modid mis varasemalt töötasid ei pruugi enne nende uuendamist töötada.",
+  "menu_mod_notice": "THIS IS TO TEST WHETHER THE DUTCH MOD WORKS AS IS!",
   "menu_modifier_casual": "Argipäevane",
   "menu_modifier_casual_tooltip": "Argipäevases režiimis on võtlemine väga palju lihtsam, vastased ei ründa sind provotseerimata ja nad ei tee su baasile ründeretki. Ressursse on rohkem ja sa ei kaota surres esemeid ega oskusi.",
   "menu_modifier_custom": "Kohandatud modifikatsioonid",
